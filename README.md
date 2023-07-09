@@ -21,6 +21,8 @@ Note <!> - This project is a 100% pure classical Computer Vision and No Deep Lea
 
 ![](https://github.com/Raviv-Herrera/Roundabout-from-a-drone/blob/main/stabilized_video.gif)
 
-### Apply Optical-Flow tracking to follow the vehicles
+### Apply Optical-Flow tracking to follow the vehicles and generating traffic heatmap
 
 ![](https://github.com/Raviv-Herrera/Roundabout-from-a-drone/blob/main/opf_vehicles.gif)
+
+![](https://github.com/Raviv-Herrera/Roundabout-from-a-drone/blob/main/traffic_heatmap.gif)
