@@ -7,6 +7,5 @@ For that purpose we need to stabilize the drone's video, track the vehicles insi
 
 ## Pipeline
 
-Stabilize video with homography -->> tracking the vehicles with Optical-Flow algorithm -->> gather relevant data and make statistical inferences -->> show results
 ![image](https://github.com/Raviv-Herrera/Roundabout-from-a-drone/assets/136422674/d777bfaa-0468-49de-b1d3-3fafa7aff533)
 
