@@ -20,3 +20,7 @@ Note <!> - This project is a 100% pure classical Computer Vision and No Deep Lea
 ### The Stabilized Video form the drone camera  
 
 ![](https://github.com/Raviv-Herrera/Roundabout-from-a-drone/blob/main/stabilized_video.gif)
+
+### Apply Optical-Flow tracking to follow the vehicles
+
+![](https://github.com/Raviv-Herrera/Roundabout-from-a-drone/blob/main/opf_vehicles.gif)
