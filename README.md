@@ -30,4 +30,5 @@ Note <!> - This project is a 100% pure classical Computer Vision and No Deep Lea
 ### Final Results
 - Counting the number of the vehicles within the roundabout each second
 - Having a heatmap representing the traffic distribution inside the roundabout
+  
 ![](https://github.com/Raviv-Herrera/Roundabout-from-a-drone/blob/main/final_results_video.gif)
