@@ -1,5 +1,5 @@
 # Roundabout-from-a-drone
-Classical Optical-Flow object tracking for cars within a roundabout from a drone bird eye view.
+Classical Optical-Flow object tracking for vehicles within a roundabout from a drone bird eye view.
 
 ## Description 
 The aim of the project is to take an original Video taken by a drone and generate a final result which shows the current vehicles inside the roundabout and track them.
