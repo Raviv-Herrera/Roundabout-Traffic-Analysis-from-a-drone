@@ -12,7 +12,10 @@ Note <!> - This project is a 100% pure classical Computer Vision and No Deep Lea
 
 ## Results 
 
-### The original Video form the drone 
+### The original Video form the drone camera  
 
 ![](https://github.com/Raviv-Herrera/Roundabout-from-a-drone/blob/main/original_video.gif)
 
+### The Stabilized Video form the drone camera  
+
+![](https://github.com/Raviv-Herrera/Roundabout-from-a-drone/blob/main/stabilized_video.gif)
